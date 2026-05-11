@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Joss AdRe 👋</h1>
+<h1 align="center">¡Hola! Soy Joss 👋</h1>
 
 <p align="center">
   <em>Ingeniero en Informática · Project Manager · Consultor TI</em><br>
