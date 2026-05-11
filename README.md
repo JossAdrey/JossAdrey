@@ -98,11 +98,3 @@ Cursos de redes sociales, marketing digital, Excel y programación.
 🏢 [AD Ingenia](https://adingenia.mx)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JossAdrey&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JossAdrey&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
