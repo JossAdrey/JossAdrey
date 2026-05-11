@@ -56,10 +56,13 @@ Me especializo en **dirección de proyectos (PM)**, plataformas LMS, eCommerce y
 ## 💼 Experiencia destacada
 
 🏥 **Consejo Mexicano de Certificación en Medicina Familiar** — Consultor y coordinador de tecnologías  
-Coordinación de 9 ediciones del Examen de Certificación en línea (2020–2024) + exámenes WEBecoe.
+Coordinación de 14 ediciones del Examen de Certificación en línea (2020–2026) + exámenes WEBecoe.
 
 🏥 **CONACEM — Migración SIGME V3 → V5 (2025)**  
 Liderazgo de equipo de 15 profesionales: migración de base de datos, adaptación de APIs, UAT, plan de rollback y capacitación a usuarios finales.
+
+🌐 **AD Ingenia** — (2025 - Actual)  
+ERP, ODOO, LMS (Moodle), Diseño web, eCommerce (Parthner Tienda Nube), SEO y campañas de marketing digital.
 
 🌐 **CASSENmx** — Coordinación de tecnologías y nuevos proyectos (2019–2025)  
 Diseño web, eCommerce, SEO y campañas de marketing digital.
@@ -74,6 +77,7 @@ Cursos de redes sociales, marketing digital, Excel y programación.
 
 ## 🎓 Formación reciente
 
+- 📊 **2026** - Universidad Anahuac - Diplomado en Data Analytics: Análisis, Visualización y Toma de Decisiones Basada en Datos.
 - 🤖 **2025** — N8N: automatización de agentes inteligentes (OpenAI · Telegram · Sheets · Notion)
 - 🧩 **2025** — Odoo V18 Funcional · Líder de Proyectos (PLO) · CRM · eCommerce
 - 🛒 **2024** — WooCommerce para Desarrolladores: Custom Checkout y APIs
@@ -90,7 +94,7 @@ Cursos de redes sociales, marketing digital, Excel y programación.
 
 ## 📫 Contacto
 
-📧 **adamejosetp@gmail.com**  
+📧 **contacto@adingenia.mx**  
 🏢 [AD Ingenia](https://adingenia.mx)
 
 ---
